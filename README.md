@@ -2,7 +2,7 @@
 
 I want a new clock. At the moment I do have an radio cock with some ugly looking numbers. I am a big fan of retro products and thought about a split flap dislay and I liked the idea. Here are some notes and all my documents for the project.
 
-### Definitions
+## Definitions
 
 | Name                    | Variable Name | Comment                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | ----------------------- | :-----------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
